@@ -11,7 +11,7 @@ Instructions are for Ubuntu 14 (64bit)
 Run the program
 1. Launch Terminal
 2. Type the command
-       $ git clone https://github.com/liomedal/squid-ubuntu
+       $ git clone https://github.com/lionelmedal/squid-ubuntu
 3. Browse the checkout files i.e 
        $ cd squid_ubuntu
 4. Run the command
